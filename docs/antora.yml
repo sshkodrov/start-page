@@ -1,0 +1,4 @@
+name: start
+title: Start Page
+version: ~
+start_page: start:start.adoc

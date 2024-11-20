@@ -1,6 +1,4 @@
 name: start
 title: Home Page
 version: ~
-# start_page: start-page:start.adoc 
-nav:
-- modules/start-page/pages/nav.adoc
+start_page: start-page:start.adoc 

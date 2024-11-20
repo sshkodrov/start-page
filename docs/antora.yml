@@ -2,3 +2,5 @@ name: start
 title: Home Page
 version: ~
 # start_page: start-page:start.adoc 
+nav:
+- modules/ROOT/nav.adoc

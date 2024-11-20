@@ -1,2 +1,0 @@
-.Overview
-** xref:modules/start-page/pages/start.adoc[Second page]

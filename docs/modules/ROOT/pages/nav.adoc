@@ -1,2 +1,2 @@
 .Overview
-** xref:start::start.adoc[Second page]
+** xref:start:start-page:start.adoc[Second page]

@@ -1,2 +1,0 @@
-.Overview
-** xref:start.adoc[Second page]
